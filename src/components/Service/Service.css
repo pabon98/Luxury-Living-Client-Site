@@ -1,0 +1,10 @@
+.explore{
+    color: ghostwhite;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 8px;
+    background-color:crimson
+}
+.explore:hover{
+background-color: rgb(214, 69, 98);
+}

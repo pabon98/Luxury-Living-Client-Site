@@ -1,0 +1,9 @@
+.message{
+    padding: 5px;
+    background-color: gold;
+    border:1px solid gold;
+    border-radius: 5px;
+}
+.message:hover{
+    background-color:rgba(255, 217, 0, 0.733)
+}
